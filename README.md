@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @DustinJanssen
 - 👀 I’m interested in game and web development.
-- 🌱 I’m currently learning Ruby, Rails, and C#.
 - 💞️ I’m looking to collaborate on nothing at the time.
 - 📫 How to reach me: dustinjanssen109@gmail.com
 
